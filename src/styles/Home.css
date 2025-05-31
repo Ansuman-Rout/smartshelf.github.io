@@ -1,0 +1,25 @@
+.home {
+    text-align: center;
+    padding: 3rem;
+  }
+  
+  .home h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    color: rgb(43, 226, 92);
+  }
+  
+  .home button {
+    padding: 0.7rem 1.5rem;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .home button:hover {
+    background-color: darkred;
+  }
+  
